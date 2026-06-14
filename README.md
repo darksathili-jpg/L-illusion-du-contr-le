@@ -135,7 +135,7 @@ Licence CC BY-SA 4.0.
 
 **DarkSATHI Li** enseigne la spécialité NSI et la SNT au Lycée Antoine Watteau à Valenciennes (Académie de Lille). Ce rapport a été produit dans le cadre d'une veille stratégique sur les enjeux contemporains de l'IA pour l'enseignement de l'informatique au lycée.
 
-Site pédagogique : [darksathili-jpg.github.io/pratique_2026](https://darksathili-jpg.github.io/pratique_2026/)  
+Site pédagogique : [darksathili-jpg.github.io](https://darksathili-jpg.github.io/accueil/)  
 GitHub : [darksathili-jpg](https://github.com/darksathili-jpg)
 
 ---
